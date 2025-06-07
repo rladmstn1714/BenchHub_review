@@ -1,11 +1,13 @@
 ---
-base_model:
-- black-forest-labs/FLUX.1-dev
-- Yuanshi/OminiControl
 language:
 - en
 license: apache-2.0
-pipeline_tag: image-to-image
+base_model:
+- black-forest-labs/FLUX.1-dev
+- Yuanshi/OminiControl
+pipeline_tag: image-to-text
+task_categories:
+- image-to-text
 library_name: diffusers
 ---
 
