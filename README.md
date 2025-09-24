@@ -55,9 +55,7 @@ We currently support three main function for evaluation:
 
 > 📂 For full usage and code examples, see [`evaluation/README.md`](evaluation/README.md)
 
-## Submit Your Dataset
-If you would like your dataset to be included in BenchHub, please submit a pull request via the "Submit your dataset" section at the following link:
-👉 https://huggingface.co/spaces/BenchHub/BenchHub
+
 
 ## Implementation of BenchHub 
 
