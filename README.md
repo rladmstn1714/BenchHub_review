@@ -17,6 +17,10 @@ It enables efficient dataset handling for **training and evaluation**, providing
 
 This allows users to build **custom benchmarks** tailored to specific needs and conduct **holistic evaluations** of language models.
 
+## Datasets
+Due to repository size limitations, only 30 samples per each dataset are included in `benchhub_json/`, and the full dataset will be made available on Hugging Face following the anonymous review period.
+
+
 ## 🔧 Features
 
 The evaluation system in `BenchHub` provides key utilities for conducting standardized LLM evaluation. 
