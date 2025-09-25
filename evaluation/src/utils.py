@@ -113,15 +113,8 @@ year={2025}
 }"""
 
     # 4. BenchHub Citation (provided by user)
-    benchhub_citation = """@misc{kim2025benchhub,
-    title={BenchHub: A Unified Benchmark Suite for Holistic and Customizable LLM Evaluation}, 
-    author={Eunsu Kim and Haneul Yoo and Guijin Son and Hitesh Patel and Amit Agarwal and Alice Oh},
-    year={2025},
-    eprint={2506.00482},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG},
-    url={https://arxiv.org/abs/2506.00482}, 
-}"""
+    benchhub_citation = """dummy
+"""
 
     # 5. Build the full LaTeX report string
     report_template = f"""
