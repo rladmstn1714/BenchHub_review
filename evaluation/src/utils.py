@@ -117,8 +117,8 @@ year={2025}
 """
 
     # 5. Build the full LaTeX report string
-    report_template = f"""
-The evaluation dataset are sampled using BenchHub~\\cite{{kim2025benchhub}}. 
+    report_template = f
+The evaluation dataset are sampled using BenchHub~\\cite{{dummy}}. 
 %If you use hret for the evaluation, please add the following text: The evaluation is conducted using hret~\cite{{lee2025hret}}.
 The individual datasets include in the evaluation set, along with their statistics, are summarized in Table~\\ref{{tab:eval-dataset}}.
 
